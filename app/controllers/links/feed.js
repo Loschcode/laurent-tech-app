@@ -7,7 +7,7 @@ export default Ember.Controller.extend({
      */
     refresh: function() {
       Ember.$.ajax({
-        url: '/api/links/feed',
+        url: '/links/feed',
       });
     }
   }
