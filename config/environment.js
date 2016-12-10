@@ -1,6 +1,7 @@
 /* jshint node: true */
 
 module.exports = function(environment) {
+
   var ENV = {
     modulePrefix: 'feed-app',
     environment: environment,
@@ -49,8 +50,11 @@ module.exports = function(environment) {
 
   if (environment === 'production') {
 
-    ENV.APP.api.host = 'http://feed-api.laurent.tech';
-    ENV.APP.api.namespace = '/';
+    console.log(ENV.APP);
+    ENV.APP.api = {
+        host: 'http://feed-api.laurent.tech',
+        namespace: '/'
+    },
 
   }
 
