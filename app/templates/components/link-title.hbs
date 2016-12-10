@@ -6,10 +6,17 @@
     </span>
   {{/link-to}}
 {{else}}
+  {{#if link.url}}
   <a href="{{link.url}}">
     {{link.title}}
     <span class="links__date">
       {{relative-date link.published_at}}
     </span>
   </a>
+  {{else}}
+    {{link.title}}
+    <span class="links__date">
+      {{relative-date link.published_at}}
+    </span>
+  {{/if}}
 {{/if}}
