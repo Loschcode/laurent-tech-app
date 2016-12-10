@@ -16,11 +16,12 @@ module.exports = function(environment) {
       }
     },
 
+    api: {
+      host: 'http://feed-api.laurent.tech',
+      namespace: '/'
+    },
+
     APP: {
-      api: {
-        host: 'http://feed-api.laurent.tech',
-        namespace: '/'
-      },
       myself: {
         github: 'https://github.com/Loschcode',
         linkedin: 'http://fr.linkedin.com/in/laurentschaffner',
@@ -52,8 +53,8 @@ module.exports = function(environment) {
 
   if (environment === 'production') {
 
-    console.log(ENV.APP);
-    ENV.APP.api = {
+    console.log(ENV.api);
+    ENV.api = {
         host: 'http://feed-api.laurent.tech',
         namespace: '/'
     }
