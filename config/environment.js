@@ -3,7 +3,7 @@
 module.exports = function(environment) {
 
   console.log("loading env");
-  
+
   var ENV = {
     modulePrefix: 'feed-app',
     environment: environment,
@@ -56,7 +56,7 @@ module.exports = function(environment) {
     ENV.APP.api = {
         host: 'http://feed-api.laurent.tech',
         namespace: '/'
-    },
+    }
 
   }
 
