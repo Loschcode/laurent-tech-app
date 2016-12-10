@@ -1,4 +1,5 @@
 import Ember from 'ember';
+import ENV from 'feed-app/config/environment';
 
 export default Ember.Controller.extend({
   actions: {
@@ -7,7 +8,7 @@ export default Ember.Controller.extend({
      */
     refresh: function() {
       Ember.$.ajax({
-        url: '/links/feed',
+        url: ENV.api.host + ENV.api.namespace + '/links/feed',
       });
     }
   }
