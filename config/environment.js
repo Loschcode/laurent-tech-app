@@ -2,6 +2,8 @@
 
 module.exports = function(environment) {
 
+  console.log("loading env");
+  
   var ENV = {
     modulePrefix: 'feed-app',
     environment: environment,
