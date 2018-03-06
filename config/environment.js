@@ -3,7 +3,7 @@
 module.exports = function(environment) {
 
   var ENV = {
-    
+
     modulePrefix: 'feed-app',
     environment: environment,
     rootURL: '/',
@@ -16,7 +16,7 @@ module.exports = function(environment) {
     },
 
     api: {
-      host: 'http://feed-api.laurent.tech',
+      host: 'https://api.laurent.tech',
       namespace: '/'
     },
 
@@ -53,7 +53,7 @@ module.exports = function(environment) {
   if (environment === 'production') {
 
     ENV.api = {
-        host: 'http://feed-api.laurent.tech',
+        host: 'https://api.laurent.tech',
         namespace: '/'
     }
 
