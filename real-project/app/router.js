@@ -1,5 +1,5 @@
-import EmberRouter from '@ember/routing/router';
 import config from './config/environment';
+import EmberRouter from '@ember/routing/router';
 
 const Router = EmberRouter.extend({
   location: config.locationType,
@@ -7,6 +7,11 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function() {
+  this.route('links/feed');
+  this.route('links', function() {
+    this.route('show', {path: '/:link_id'});
+  });
+  this.route('resume');
 });
 
 export default Router;
