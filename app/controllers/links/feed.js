@@ -1,13 +1,14 @@
-import Ember from 'ember';
 import ENV from 'feed-app/config/environment';
+import Controller from '@ember/controller';
+import $ from 'jquery';
 
-export default Ember.Controller.extend({
+export default Controller.extend({
   actions: {
     /**
      * We refresh the links from the database by feeding on the back-end
      */
     refresh: function() {
-      Ember.$.ajax({
+      $.ajax({
         url: ENV.api.host + ENV.api.namespace + '/links/feed',
       });
     }

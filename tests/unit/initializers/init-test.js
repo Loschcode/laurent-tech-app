@@ -1,13 +1,14 @@
-import Ember from 'ember';
 import InitInitializer from 'feed-app/initializers/init';
 import { module, test } from 'qunit';
+import Application from '@ember/application';
+import { run } from '@ember/runloop';
 
 let application;
 
 module('Unit | Initializer | init', {
   beforeEach() {
-    Ember.run(function() {
-      application = Ember.Application.create();
+    run(function() {
+      application = Application.create();
       application.deferReadiness();
     });
   }

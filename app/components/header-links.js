@@ -1,7 +1,7 @@
-import Ember from 'ember';
 import CONFIG from  '../config/environment';
+import Component from '@ember/component';
 
-export default Ember.Component.extend({
+export default Component.extend({
 
   init() {
     this._super();

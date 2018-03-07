@@ -1,5 +1,6 @@
-import Ember from 'ember';
+import { helper } from '@ember/component/helper';
 
-export default Ember.Helper.helper(function([date]) {
+export default helper(function([date]) {
+  /* eslint-disable no-undef */
   return moment(date).fromNow();
 });
