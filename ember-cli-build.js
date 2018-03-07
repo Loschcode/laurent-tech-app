@@ -19,8 +19,8 @@ module.exports = function(defaults) {
     sassOptions: {
       extension: 'sass',
       includePaths: [
-        'bower_components/csstyle',
-        'bower_components/gridle/sass/gridle'
+        'node_modules/csstyle',
+        'node_modules/gridle/sass/gridle'
       ]
     }
   });
@@ -38,8 +38,8 @@ module.exports = function(defaults) {
   // please specify an object with the list of modules as keys
   // along with the exports of each module as its value.
   //
-  app.import('bower_components/gridle/js/gridle-full.min.js');
-  app.import('bower_components/moment/moment.js');
+  app.import('node_modules/gridle/js/gridle-full.min.js');
+  app.import('node_modules/moment/moment.js');
 
   return app.toTree();
 };
