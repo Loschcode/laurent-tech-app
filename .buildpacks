@@ -1,1 +1,1 @@
-https://codon-buildpacks.s3.amazonaws.com/buildpacks/heroku/emberjs.tgz
+https://github.com/bcavileer/dokku-buildpack-ember-cli
