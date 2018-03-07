@@ -1,1 +1,1 @@
-web: bin/boot
+web: ember serve --port $PORT --live-reload=false
