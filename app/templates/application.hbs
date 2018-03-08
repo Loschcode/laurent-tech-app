@@ -1,5 +1,46 @@
-{{!-- The following component displays Ember's default welcome message. --}}
-{{welcome-page}}
-{{!-- Feel free to remove this! --}}
+<div class="container">
+  <!-- Header -->
+  <div class="row row-full">
 
-{{outlet}}
+    <div class="header">
+
+      <div class="row">
+        <div class="header__prelinks">
+          {{#link-to 'resume'}}MY RESUME{{/link-to}} | <a href="mailto:laurent.schaffner.jobs@gmail.com">JOBS</a>
+        </div>
+      </div>
+
+      <div class="row">
+
+        <div class="gr-8 gr-centered">
+
+          <div class="header__inside">
+
+            {{#link-to 'application'}}
+              <!-- Author -->
+              {{header-author}}
+
+              <!-- Summary -->
+              {{header-summary}}
+            {{/link-to}}
+
+            <!-- Links -->
+            {{header-links}}
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- Content -->
+  <div class="row">
+
+    {{outlet}}
+
+  </div>
+</div>

@@ -1,8 +1,8 @@
 {
-  "name": "ember-test",
-  "version": "0.0.0",
+  "name": "feed-app",
+  "version": "1.0.0",
   "private": true,
-  "description": "Small description for ember-test goes here",
+  "description": "Portfolio front-end side for laurent.tech",
   "license": "MIT",
   "author": "",
   "directories": {
@@ -24,15 +24,18 @@
     "ember-cli-babel": "^6.6.0",
     "ember-cli-dependency-checker": "^2.0.0",
     "ember-cli-eslint": "^4.2.1",
+    "ember-cli-gravatar": "^3.9.0",
     "ember-cli-htmlbars": "^2.0.1",
     "ember-cli-htmlbars-inline-precompile": "^1.0.0",
     "ember-cli-inject-live-reload": "^1.4.1",
     "ember-cli-qunit": "^4.1.1",
+    "ember-cli-sass": "^7.1.7",
     "ember-cli-shims": "^1.2.0",
     "ember-cli-sri": "^2.1.0",
     "ember-cli-uglify": "^2.0.0",
     "ember-data": "~3.0.0",
     "ember-export-application-global": "^2.0.0",
+    "ember-font-awesome": "^4.0.0-rc.2",
     "ember-load-initializers": "^1.0.0",
     "ember-maybe-import-regenerator": "^0.1.6",
     "ember-resolver": "^4.0.0",
@@ -43,5 +46,12 @@
   },
   "engines": {
     "node": "^4.5 || 6.* || >= 7.*"
+  },
+  "dependencies": {
+    "blueimp-md5": "^2.10.0",
+    "csstyle": "^1.5.1",
+    "font-awesome": "^4.7.0",
+    "gridle": "^2.0.48",
+    "moment": "^2.21.0"
   }
 }

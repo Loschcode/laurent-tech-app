@@ -1,0 +1,28 @@
++component(links)
+
+  +part(header)
+    h2
+      text-transform: uppercase
+      font-size: 14px
+      color: $color-light-grey
+      font-weight: 500
+      letter-spacing: 0.1em
+      //+bottom-border
+
+  +part(title)
+    h3
+      a
+        color: $color-dark
+        text-decoration: none
+        font-size: 17px
+    +bottom-border
+
+  +part(date)
+    color: $color-light-grey
+    font-size: 12px
+    font-weight: 500
+    letter-spacing: 0.1em
+    padding-left: 0.5em
+
+  +part(photo)
+    +round-photo(50px)

@@ -1,25 +1,33 @@
-'use strict';
+/* jshint node: true */
 
 module.exports = function(environment) {
-  let ENV = {
-    modulePrefix: 'ember-test',
-    environment,
+
+  var ENV = {
+
+    modulePrefix: 'feed-app',
+    environment: environment,
     rootURL: '/',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
         // e.g. 'with-controller': true
-      },
-      EXTEND_PROTOTYPES: {
-        // Prevent Ember Data from overriding Date.parse.
-        Date: false
       }
     },
 
+    api: {
+      host: 'https://api.laurent.tech',
+      namespace: '/'
+    },
+
     APP: {
-      // Here you can pass flags/options to your application instance
-      // when it is created
+      myself: {
+        github: 'https://github.com/Loschcode',
+        linkedin: 'http://fr.linkedin.com/in/laurentschaffner',
+        twitter: 'https://twitter.com/LoschCode',
+        facebook: 'https://www.facebook.com/LoSchaffner',
+        skype: 'callto:loschcode'
+      }
     }
   };
 
@@ -40,11 +48,15 @@ module.exports = function(environment) {
     ENV.APP.LOG_VIEW_LOOKUPS = false;
 
     ENV.APP.rootElement = '#ember-testing';
-    ENV.APP.autoboot = false;
   }
 
   if (environment === 'production') {
-    // here you can enable a production-specific feature
+
+    ENV.api = {
+        host: 'https://api.laurent.tech',
+        namespace: '/'
+    }
+
   }
 
   return ENV;
