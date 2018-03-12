@@ -12,6 +12,7 @@ Router.map(function() {
     this.route('show', {path: '/:link_id'});
   });
   this.route('career');
+  this.route('projects');
 });
 
 export default Router;
