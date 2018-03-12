@@ -1,7 +1,16 @@
+*,
+*::before,
+*::after
+  text-rendering: optimizeLegibility
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+
 html, body
   margin: 0
-  -webkit-font-smoothing: antialiased
   font-family: sans-serif
+
+hr
+  border-top: 1px solid #eee
 
 // we rarely need margin on rows
 // and it actually generate quite often bugs

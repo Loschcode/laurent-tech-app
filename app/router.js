@@ -11,7 +11,7 @@ Router.map(function() {
   this.route('links', function() {
     this.route('show', {path: '/:link_id'});
   });
-  this.route('resume');
+  this.route('career');
 });
 
 export default Router;
