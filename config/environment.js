@@ -4,6 +4,10 @@ module.exports = function(environment) {
 
   var ENV = {
 
+    fastboot: {
+      hostWhitelist: ['laurent.tech', /^localhost:\d+$/]
+    },
+
     modulePrefix: 'feed-app',
     environment: environment,
     rootURL: '/',
