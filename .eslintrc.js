@@ -1,38 +1,21 @@
 module.exports = {
   root: true,
-  parserOptions: {
-    ecmaVersion: 2017,
-    sourceType: 'module'
-  },
-  plugins: [
-    'ember'
-  ],
-  extends: [
-    'eslint:recommended',
-    'plugin:ember/recommended'
-  ],
   env: {
-    browser: true
+    browser: true,
+    node: true
   },
-  rules: {
+  parserOptions: {
+    parser: 'babel-eslint'
   },
-  overrides: [
-    // node files
-    {
-      files: [
-        'testem.js',
-        'ember-cli-build.js',
-        'config/**/*.js',
-        'lib/*/index.js'
-      ],
-      parserOptions: {
-        sourceType: 'script',
-        ecmaVersion: 2015
-      },
-      env: {
-        browser: false,
-        node: true
-      }
-    }
-  ]
-};
+  extends: [
+    // https://github.com/vuejs/eslint-plugin-vue#priority-a-essential-error-prevention
+    // consider switching to `plugin:vue/strongly-recommended` or `plugin:vue/recommended` for stricter rules.
+    'plugin:vue/essential'
+  ],
+  // required to lint *.vue files
+  plugins: [
+    'vue'
+  ],
+  // add your custom rules here
+  rules: {}
+}

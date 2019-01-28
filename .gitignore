@@ -1,16 +1,11 @@
-# See http://help.github.com/ignore-files/ for more about ignoring files.
-
-# compiled output
-/dist
-/tmp
-
 # dependencies
-/node_modules
+node_modules
 
-# misc
-/.sass-cache
-/connect.lock
-/coverage/*
-/libpeerconnection.log
+# logs
 npm-debug.log
-testem.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist

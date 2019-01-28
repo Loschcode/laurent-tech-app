@@ -1,0 +1,37 @@
+.header
+  text-align: center
+  // font-family: sans-serif
+  background-color: $color-dark
+  color: $color-white
+
+.header__prelinks
+  text-align: right
+  +breakpoint(mobile)
+    text-align: center
+  margin: 1em
+  text-transform: uppercase
+  font-size: 0.9em
+  +header-buttons
+
+.header__inside
+  a
+    text-decoration: none
+    color: $color-white
+  padding: 1em
+
+.header__author
+  text-transform: uppercase
+  h1
+    margin: 0
+
+.header__summary
+  font-weight: 300
+  color: $color-grey
+  font-size: 1.6em
+
+.header__links
+  a
+    margin: 0.1em
+  padding-top: 0.5em
+  font-size: 1.5em
+  +header-links
