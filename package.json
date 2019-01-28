@@ -13,6 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@nuxtjs/redirect-module": "^0.2.0",
     "font-awesome": "^4.7.0",
     "gridle": "^2.0.48",
     "nuxt": "^2.0.0"
