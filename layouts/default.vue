@@ -13,7 +13,7 @@
 
         <div class="gr-4@desktop pull-4@desktop gr-12@mobile gr-12@tablet">
           <div class="header__inside">
-            <a href="#">
+            <a href="/">
               <div class="header__author">
                 <h1>Laurent Schaffner</h1>
               </div>
