@@ -10,7 +10,7 @@
                 Experienced NodeJS Developer<br />
                 Experienced VueJS Developer<br /><br />
 
-                Phone: +33 621 164 869 (France)<br />
+                Phone: +56 976 889 642 (Chile)<br />
                 Email: <span class="black external-link"><a href="mailto:laurent.schaffner.jobs@gmail.com"><span class="link">laurent.schaffner.jobs@gmail.com</span></a></span>
             </div>
 
@@ -35,85 +35,6 @@
             <p>
               For the majority of my career I have been in a back-end  position. I’m good at dealing with the server side and know the importance of being able to adapt myself to any given situation / technology. I pride myself in being able to think through complex systems, anticipate problems, and fix them before they happen.
             </p>
-          </div>
-          <hr />
-
-          <div class="resume__skill-sets">
-
-          <!-- Title -->
-          <h1><span class="icon-skill-sets"></span> Skill Sets</h1>
-
-          <!-- Description -->
-          <ol>Ruby on Rails stack <span class="resume__detail">6+ years experience</span>
-            <li>Experience with Rails Engines, Gems creation</li>
-            <li>Experience with RSpec, Capybara, FactoryGirl</li>
-            <li>Experience with Capistrano, Dokku</li>
-            <li>Good with HAML / ERB</li>
-          </ol>
-
-          <ol>NodeJS stack <span class="resume__detail">2+ years experience</span>
-            <li>Experience with ExpressJS, SailsJS, Meteor / Iron and Ionic</li>
-            <li>Managed SocketIO on several projects</li>
-            <li>Deal with Cordova</li>
-          </ol>
-
-          <ol>Laravel stack <span class="resume__detail">4+ years experience</span>
-            <li>Experience with Laravel 4.2 and Laravel 5</li>
-            <li>Good with Blade</li>
-            <li>Used several PHP frameworks prior to Laravel such as CodeIgniter, PhalconPHP, SlimFramework (10+ years experience)</li>
-          </ol>
-
-          <ol>JavaScript <span class="resume__detail">12+  years experience</span>
-            <li>Experience in VueJS</li>
-            <li>Versed in CoffeeScript</li>
-            <li>Versed in using jQuery</li>
-            <li>Versed in using EmberJS and GothamJS</li>
-            <li>Bases in TypeScript</li>
-          </ol>
-
-          <ol>CSS <span class="resume__detail">12+  years experience</span>
-            <li>Versed  in SASS / SCSS / LESS</li>
-            <li>Experience in various grid systems (Bootstrap, Gridle)</li>
-            <li>Enthousiast of BEM via CSStyle / Inverted Triangle CSS</li>
-            <li>Experience with Brunch / Webpack</li>
-          </ol>
-
-          <ol>HTML / XML <span class="resume__detail">12+ years experience</span></ol>
-
-          <ol>Databases <span class="resume__detail">12+ years experience</span>
-            <li>Experience with MySQL / PostgreSQL</li>
-            <li>Experience with MongoDB  mostly through Mongoose and MongoId</li>
-            <li>Extensively use ActiveRecord and other ORMs</li>
-          </ol>
-
-          <ol>API construction <span class="resume__detail">7+ years experience</span>
-            <li>Large experience in RESTful API architecture / construction</li>
-            <li>Experience with GraphQL</li>
-            <li>Made several API connected front-end rendered applications</li>
-            <li>Managed external APIs structure protected via keys / tokens</li>
-            <li>Managed internal APIs and secured webhook communications</li>
-          </ol>
-
-          <ol>Git version control <span class="resume__detail">6+ years experience</span></ol>
-
-          <ol>Payments solution <span class="resume__detail">6+ years experience</span>
-            <li>Various experiences with Stripe payment (3+ years)</li>
-            <li>Marketplace architecture with Wirecard, Alipay, WechatPay, ChinaUnionPay (2 years)</li>
-          </ol>
-
-          <ol>System Administation <span class="resume__detail">6+ years experience</span>
-            <li>CLI / SSH control, management of Linux / Unix based servers without problem</li>
-            <li>Experience with Apache and NGinx</li>
-            <li>Experience with Dokku / Docker</li>
-            <li>Experience with SSLs certificates and advanced domains management</li>
-          </ol>
-
-          <ol>Toolbox
-            <li>Experience with Redis</li>
-            <li>Experience with Sidekiq</li>
-            <li>Sketch, Photoshop, Illustrator : been using  here and there for several years, able to edit vectorial resources and design mockups, used to draw vectorial characters to build flash video games back in the days.</li>
-          </ol>
-
           </div>
 
           <hr />

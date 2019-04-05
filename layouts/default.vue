@@ -7,7 +7,8 @@
         <div class="gr-8@desktop push-4@desktop gr-12@mobile gr-12@tablet">
           <div class="header__prelinks">
             <a href="/career">Career</a>
-            <a href="/projects">Projets</a>
+            <a href="/skills">Skills</a>
+            <a href="/projects">Projects</a>
           </div>
         </div>
 
