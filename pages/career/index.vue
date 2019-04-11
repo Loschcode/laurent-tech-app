@@ -46,7 +46,7 @@
 
             <!-- Job -->
             <h2>Livestorm SAS (Paris, France)</h2>
-            <h3>Technical Leader / Sr. Ruby Developer</h3>
+            <h3>Technical Leader / Sr. Ruby on Rails Developer</h3>
             <div class="resume__detail">
             Since June 2018
             </div>
