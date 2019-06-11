@@ -53,7 +53,7 @@
 
             <!-- Description -->
             <p>
-              This fast growing startup specialized in webinar needed someone on both front and back-end to bulk up their technical team. Being a new kind of project for me, I decided to join them as learning about livestream management seemed very interesting.
+              This fast growing startup specialized in webinar needed someone on the back-end to bulk up their technical team. Being a new kind of project for me, I decided to join them as learning about livestream management and working on a unified product seemed very interesting.
             </p>
 
             <!-- Bottom -->
