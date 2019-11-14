@@ -10,7 +10,7 @@
                 Experienced NodeJS Developer<br />
                 Experienced VueJS Developer<br /><br />
 
-                Phone: +56 976 889 642 (Chile)<br />
+                Phone: +33 619 898 980 (France)<br />
                 Email: <span class="black external-link"><a href="mailto:laurent.schaffner.jobs@gmail.com"><span class="link">laurent.schaffner.jobs@gmail.com</span></a></span>
             </div>
 
