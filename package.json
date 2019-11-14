@@ -16,7 +16,8 @@
     "@nuxtjs/redirect-module": "^0.2.0",
     "font-awesome": "^4.7.0",
     "gridle": "^2.0.48",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "sass-loader": "8.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
@@ -25,6 +26,5 @@
     "eslint-loader": "^2.1.1",
     "eslint-plugin-vue": "^4.0.0",
     "node-sass": "4.12.0",
-    "sass-loader": "8.0.0"
   }
 }
