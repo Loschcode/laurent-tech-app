@@ -4,6 +4,10 @@
   "description": "Nuxt.js project",
   "author": "Laurent Schaffner <laurent.schaffner.code@gmail.com>",
   "private": true,
+  "engines": {
+    "node": "13.6.0",
+    "npm": "6.13.4"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
