@@ -46,7 +46,7 @@
 
             <!-- Job -->
             <h2>Livestorm SAS (Paris, France)</h2>
-            <h3>Technical Leader / Sr. Ruby on Rails Developer</h3>
+            <h3>Head of Back-end Development / Sr. Software Developer</h3>
             <div class="resume__detail">
             Since June 2018
             </div>
@@ -65,7 +65,7 @@
 
             <!-- Job -->
             <h2>DigPanda GmbH (Munich, Germany)</h2>
-            <h3>Technical Leader / Sr. Ruby on Rails Developer</h3>
+            <h3>Technical Leader / Sr. Software Developer</h3>
             <div class="resume__detail">
               May 2016 - April 2018
             </div>
@@ -84,7 +84,7 @@
 
             <!-- Job -->
             <h2>Virtual Safety Inc &amp; Gotham Partners LLC (Baton Rouge, Louisiana)</h2>
-            <h3>Ruby on Rails Developer</h3>
+            <h3>Lead Back-end Developer / Ruby on Rails Developer</h3>
             <div class="resume__detail">
               Feb 2014 - Jan 2016
             </div>
