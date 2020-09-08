@@ -22,7 +22,7 @@
           <h1><span class="icon-skill-sets"></span> Skill Sets</h1>
 
           <!-- Description -->
-          <ol>Ruby on Rails stack <span class="resume__detail">6+ years experience</span>
+          <ol>Ruby on Rails stack <span class="resume__detail">7+ years experience</span>
             <li>Experience with Rails Engines, Gems creation</li>
             <li>Experience with RSpec, Capybara, FactoryGirl</li>
             <li>Experience with Capistrano, Dokku</li>
@@ -31,6 +31,7 @@
 
           <ol>NodeJS stack <span class="resume__detail">2+ years experience</span>
             <li>Experience with ExpressJS, SailsJS, Meteor / Iron and Ionic</li>
+            <li>Apollo Server / GraphQL</li>
             <li>Managed SocketIO on several projects</li>
             <li>Deal with Cordova</li>
           </ol>
@@ -72,15 +73,17 @@
           </ol>
 
           <ol>System Administation <span class="resume__detail">6+ years experience</span>
-            <li>CLI / SSH control, management of Linux / Unix based servers without problem</li>
+            <li>Experience with AWS (CloudWatch, RDS, ECS/EC2, Lambda)</li>
             <li>Experience with Apache and NGinx</li>
             <li>Experience with Dokku / Docker</li>
             <li>Experience with SSLs certificates and advanced domains management</li>
+            <li>CLI / SSH control, management of Linux / Unix based servers without problem</li>
           </ol>
 
           <ol>Toolbox
             <li>Experience with Redis</li>
             <li>Experience with Sidekiq</li>
+            <li>Experience with stress tests stacks such as FloodIO and Artillery</li>
             <li>Sketch, Photoshop, Illustrator : been using  here and there for several years, able to edit vectorial resources and design mockups, used to draw vectorial characters to build flash video games back in the days.</li>
           </ol>
 
