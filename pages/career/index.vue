@@ -53,7 +53,7 @@
 
             <!-- Description -->
             <p>
-              This fast growing startup specialized in webinar needed someone on the back-end to bulk up their technical team. Being a new kind of project for me, I decided to join them as learning about livestream management and working on a unified product seemed very interesting.
+              This fast growing startup specialized in webinar and online meetings needed someone on the back-end to bulk up their technical team. After one year working as their top engineer I became the head of back-end development and started managing and leading three small teams. In my time there, we’ve managed to improve our architecture and infrastructure to handle ten times more traffic.
             </p>
 
             <!-- Bottom -->
