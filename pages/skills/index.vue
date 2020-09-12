@@ -9,7 +9,7 @@
             <h1><span class="icon-code"></span> What is it about?</h1>
             <!-- Description -->
             <p>
-              I like to discover new technologies and usually code a lot on the side of my daily job. Here are the list of my current skills, and the ones I've acquired but don't really use anymore.
+              I like to discover new technologies and usually code a lot beside my daily job. Here's the list of my current skills, and the ones I've acquired but don't really use anymore.
             </p>
           </div>
 

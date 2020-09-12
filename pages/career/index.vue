@@ -72,7 +72,7 @@
 
             <!-- Description -->
             <p>
-              This startup called me to help them technically ; unable to release a solid sino-germanic marketplace, they asked for help. I had to take the lead on a small team, rebuild completely their front-end, stabilize the whole back-end side and improve its speed / scalability. I established multiple processes such as deployment automatism, programming good practices, testing, git organization, schedule boards and finally delivered a stable version after a few months.
+              This startup called me to help them technically ; unable to release a solid sino-germanic marketplace, they asked for help. I had to take the lead in a small team, completely rebuild their front-end, stabilize the whole back-end side and improve its speed / scalability. I established multiple processes such as CI/CD, programming good practices, testing, git organization, schedule boards and finally delivered a stable version after a few months.
             </p>
 
             <!-- Bottom -->
@@ -91,7 +91,7 @@
 
             <!-- Description -->
             <p>
-              Back-end developer &amp; Software Architect in a team of four Ruby on Rails developers. We created three full stack ruby SaaS applications and handled everything from design and planning to deployment. I personally dealt with the project schematics, software flow, creating multiple APIs, and wrote most of the backend code. Had to overcome obstacles such as constantly evolving software requirements based on user’s needs while keeping the code base clean and maintainable.
+              Back-end developer &amp; Software Architect in a team of four Ruby on Rails developers. We created three full stack ruby SaaS applications and handled everything from design and planning to deployment. I personally dealt with the project schematics, software flow, creating multiple APIs, and wrote most of the backend code. Had to overcome obstacles such as constantly evolving software requirements based on user needs while keeping the code base clean and maintainable.
             </p>
 
             <!-- Bottom -->
@@ -148,7 +148,7 @@
 
             <!-- Description -->
             <p>
-              Despite the brevity of this experience I must write it down. Greece was in the middle of the crisis back then and I helped out this wholesale company with their web strategy in an emergency context. I had to setup a product website and find ways to make them visible on Internet while their growth was going way down. They are still on track today.
+              Despite the brevity of this experience I must include it. Greece was in the middle of the crisis back then and I helped out this wholesale company with their web strategy in an emergency context. I had to setup a product website and find ways to make them visible on the Internet while their growth was dramatically decreasing. They are still on track today.
             </p>
 
             <!-- Bottom -->
@@ -186,7 +186,7 @@
 
             <!-- Description -->
             <p>
-              I started to get contracts for ActionScript development back in 2003. At the time there were a big trend on Flash games / Casino games ; I surfed on it for a while. I then got hired from time to time on different fields and evolved by learning other languages (C, TCL/eggdrop, PHP, ...) ; my projects went from IRC server bots to Flash encapsulated softwares. During  this period I got hooked  on  web development and have continued in this field ever since. I began improving  my workflow  by moving to an  Object-Oriented / MVC  approach. I got several small / middle sized web projects throughout the years as freelancer beside my other projects.
+              I started to get contracts for ActionScript development back in 2003. At the time there was a big trend in Flash games / Casino games ; I surfed on it for a while. I then got hired from time to time in different fields and evolved by learning other languages (C, TCL/eggdrop, PHP, ...) ; my projects went from IRC server bots to Flash encapsulated softwares. During  this period I got hooked  on  web development and have continued in this field ever since. I began improving  my workflow  by moving to an  Object-Oriented / MVC  approach. I got several small / mid-sized web projects throughout the years as freelancer beside my other projects.
             </p>
 
             <!-- Bottom -->
@@ -201,7 +201,7 @@
           <h1><span class="icon-education"></span> Education</h1>
 
           <p>
-            Started college in 2009 after a successful Literature Baccalauréat. I earned a Licence of Communication in Bordeaux and then studied Linguistic Science for one additional year. I worked as developer in parallel of all this and decided to stop my formal college studies to focus on my passion which has become SaaS software development and pursue my business ideas.
+            Started college in 2009 after a successful Literature Baccalauréat. I earned a Licence of Communication in Bordeaux and then studied Linguistic Science for one additional year. I worked as developer in parallel of all this and decided to stop my formal college studies to focus on my passion which has become SaaS software development and pursuing my business ideas.
           </p>
 
           <hr />

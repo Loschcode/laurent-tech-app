@@ -9,7 +9,7 @@
             <h1><span class="icon-introduction"></span> Introduction</h1>
             <!-- Description -->
             <p>
-              I've been working on side projects since I'm a teenager, so far I can proudly say that none of my tech-oriented projects was ever a success, but I don't give up and keep a trace of each of them, hoping someday someone will ask about it so I can keep on giving at parties. I've solely listed the big projects I realized, no libraries or viable businesses are quoted.
+              I've been working on side projects since I was a teenager, so far I can proudly say that none of my tech-oriented projects was ever a success, but I don't give up and keep track of each of them, hoping someday someone will ask about it so I can keep on giving at parties. I've solely listed the big projects I completed, no libraries or viable businesses are quoted.
             </p>
           </div>
 
