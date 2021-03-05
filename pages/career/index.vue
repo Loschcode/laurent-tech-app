@@ -46,7 +46,7 @@
 
             <!-- Job -->
             <h2>Livestorm SAS (Paris, France)</h2>
-            <h3>Head of Back-end Development / Sr. Software Developer</h3>
+            <h3>Head of Back-end Development</h3>
             <div class="resume__detail">
             Since June 2018
             </div>
@@ -65,7 +65,7 @@
 
             <!-- Job -->
             <h2>DigPanda GmbH (Munich, Germany)</h2>
-            <h3>Technical Leader / Sr. Software Developer</h3>
+            <h3>Lead Full Stack Engineer</h3>
             <div class="resume__detail">
               May 2016 - April 2018
             </div>
