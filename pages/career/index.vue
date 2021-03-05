@@ -33,7 +33,7 @@
               I am a seasoned programmer with more than 10 years in SaaS and am well versed in many languages. I try my best to thoroughly understand the technical challenges of each project going in and then choose the most effective platform / language to see it through. Recently most of the projects I’ve worked on have been based in Ruby on Rails, NodeJS and Laravel. I write clean, readable and scalable code.
             </p>
             <p>
-              For the majority of my career I have been in a back-end  position. I’m good at dealing with the server side and know the importance of being able to adapt myself to any given situation / technology. I pride myself in being able to think through complex systems, anticipate problems, and fix them before they happen.
+              For the majority of my career I have been in a back-end position, but I've also tackled front-end challenges for several years. I’m good at dealing with the server side and know the importance of being able to adapt myself to any given situation / technology. I pride myself in being able to think through complex systems, anticipate problems, and fix them before they happen.
             </p>
           </div>
 
