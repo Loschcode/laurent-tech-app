@@ -6,6 +6,7 @@
           <div class="row">
             <div class="gr-8@desktop resume-header__title">
               <h1><span class="icon-code"></span> Software developer</h1>
+                Elixir enthusiast<br />
                 Sr. Ruby on Rails Developer<br />
                 Experienced NodeJS Developer<br />
                 Experienced VueJS Developer<br /><br />
@@ -53,7 +54,7 @@
 
             <!-- Description -->
             <p>
-              This fast growing startup specialized in webinar and online meetings needed someone on the back-end to bulk up their technical team. After one year working as their top engineer I became the head of back-end development and started managing and leading three small teams. In my time there, we’ve managed to improve our architecture and infrastructure to handle ten times more traffic.
+              This fast growing startup specialized in webinar and online meetings needed someone on the back-end to bulk up their technical team. After one year working as their top engineer I became the head of back-end development and started leading several software engineers teams. In my time there, we’ve managed to improve our architecture and infrastructure to handle ten times more traffic within less than a year.
             </p>
 
             <!-- Bottom -->
