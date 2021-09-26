@@ -19,17 +19,17 @@
             <!-- Title -->
             <h1><span class="icon-current-projects"></span> Current projects</h1>
             <!-- AskAlfred -->
-            <h2>AskAlfred</h2>
-            <h3>VueJS / GraphQL / Rails API</h3>
+            <h2>Bloodbath</h2>
+            <h3>React / Elixir</h3>
             <div class="resume__detail">
-              Since January 2019
+              Since June 2021
             </div>
             <!-- Description -->
             <p>
-              It's been years cool services pop up all over the place. You have Uber, AirBnB and what not. Surely everyone wants to be in the next craze, but people all look at the same direction, like food delivery or car sharing. There's one domain which hasn't been touched by a robust app though; conciergerie. After trying a few of them for my own needs, I realized how bad all that was orchestrated. That's how Alfred was born. I decided to write up a cool and very accessible app you can use H24 7/7 from any device, to rapidly ask for little tasks without second thought. Ask him something, and he will do it for you. You avoid burning your precious time, and the stress of sending a letter, translating something or call the plumber vanishes. Delegating tasks has never been this easy.
+              Working several years in software engineering, I realized there was no stress test platform made for developers. At worst, you get some 20 years old sites asking to get an estimate on the phone. At best, you have get YAML files and a heavy setup before testing anything. People generally end up coding their own homemade solution. That's a lot of engineering time wasted.
             </p>
             <p>
-              Alfred is by far the most complete app I've ever built. I took months designing the graphics through Sketch, writing up a realistic business model and plan, defining the MVP specs and pushing the marketing ideas upside down with Notion. It's currently under beta-testing, I've given myself one year to make it work commercially.
+              Bloodbath was thought differently. I've invested heavily into an enhanced developer experience by building multiple languages libraries — Python, Ruby &amp; Node at first — and an easy setup. It also scales very well with the technologies I've picked. I decided to keep it agnostic, even if the primary market for me would be stress tests related.
             </p>
             <!-- Bottom -->
             <div class="resume__bottom">
@@ -44,6 +44,26 @@
 
             <!-- Title -->
             <h1><span class="icon-projects-graveyard"></span> Projects graveyard</h1>
+
+            <!-- AskAlfred -->
+            <h2>AskAlfred</h2>
+            <h3>VueJS / GraphQL / Rails API</h3>
+            <div class="resume__detail">
+              Since January 2019
+            </div>
+            <!-- Description -->
+            <p>
+              It's been years cool services pop up all over the place. You have Uber, AirBnB and what not. Surely everyone wants to be in the next craze, but people all look at the same direction, like food delivery or car sharing. There's one domain which hasn't been touched by a robust app though; conciergerie. After trying a few of them for my own needs, I realized how bad all that was orchestrated. That's how Alfred was born. I decided to write up a cool and very accessible app you can use H24 7/7 from any device, to rapidly ask for little tasks without second thought. Ask him something, and he will do it for you. You avoid burning your precious time, and the stress of sending a letter, translating something or call the plumber vanishes. Delegating tasks has never been this easy.
+            </p>
+            <p>
+              Alfred is by far the most complete app I've ever built. I took months designing the graphics through Sketch, writing up a realistic business model and plan, defining the MVP specs and pushing the marketing ideas upside down with Notion. I had given myself one year to make it work commercially. After a few days of marketing campaign, I got my first customer and realized I didn't want to get into the industry.
+            </p>
+            <!-- Bottom -->
+            <div class="resume__bottom">
+              <div class="external-link">
+                <a href="https://askalfred.to" target="_blank"><span class="link">View project online</span> <span class="icon icon-link"></span></a>
+              </div>
+            </div>
 
             <!-- Bloodbath -->
             <h2>Bloodbath.io</h2>
