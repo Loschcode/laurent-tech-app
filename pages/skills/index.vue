@@ -9,7 +9,7 @@
             <h1><span class="icon-code"></span> What is it about?</h1>
             <!-- Description -->
             <p>
-              I like to discover new technologies and usually code a lot beside my daily job. Here's the list of my current skills, and the ones I've acquired but don't really use anymore.
+              I like to discover new technologies and usually code a lot beside my daily job. Here's the list of my current skills, and the ones I've acquired but don't really use anymore. The years of experience are estimates of their full-time jobs experience equivalent. ❤️ indicates my current favorites.
             </p>
           </div>
 
@@ -23,7 +23,7 @@
 
           <!-- Description -->
           <ol>Ruby on Rails stack <span class="resume__detail">7+ years experience</span>
-            <li>Experience with Rails Engines, Gems creation</li>
+            <li>Experience with Rails Engines, Gems creation ❤️</li>
             <li>Experience with RSpec, Capybara, FactoryGirl</li>
             <li>Experience with Capistrano, Dokku</li>
             <li>Good with HAML / ERB</li>
@@ -31,60 +31,74 @@
 
           <ol>NodeJS stack <span class="resume__detail">2+ years experience</span>
             <li>Experience with ExpressJS, SailsJS, Meteor / Iron and Ionic</li>
-            <li>Apollo Server / GraphQL</li>
+            <li>GraphQL with Apollo ❤️ and Relay</li>
             <li>Managed SocketIO on several projects</li>
-            <li>Deal with Cordova</li>
+            <li>Experience with Cordova</li>
           </ol>
 
           <ol>JavaScript <span class="resume__detail">12+  years experience</span>
-            <li>Experience in VueJS</li>
+            <li>Experience in VueJS (and Nuxt)</li>
+            <li>Experience in React ❤️ (and Gatsby)</li>
             <li>Experience in ES6</li>
             <li>Bases in TypeScript</li>
+          </ol>
+
+          <ol>Elixir <span class="resume__detail">2+  years experience</span>
+            <li>Experience with Phoenix</li>
+            <li>Work with Absinthe ❤️</li>
           </ol>
 
           <ol>CSS <span class="resume__detail">12+  years experience</span>
             <li>Versed in SASS / SCSS</li>
             <li>Experience in various grid systems (Flexboxgrid, Gridle, Bootstrap)</li>
             <li>Enthousiast of BEM via Inverted Triangle CSS</li>
-            <li>Experience with Webpack</li>
           </ol>
 
           <ol>HTML / XML <span class="resume__detail">12+ years experience</span></ol>
 
           <ol>Databases <span class="resume__detail">12+ years experience</span>
-            <li>Experience with MySQL / PostgreSQL</li>
-            <li>Experience with MongoDB  mostly through Mongoose and Mongoid</li>
+            <li>Experience with PostgreSQL ❤️</li>
+            <li>Experience with MySQL</li>
+            <li>Experience with MongoDB mostly through Mongoose and Mongoid</li>
+            <li>Experience with Redis</li>
             <li>Extensively use ActiveRecord and other ORMs</li>
           </ol>
 
           <ol>API construction <span class="resume__detail">7+ years experience</span>
+            <li>Experience with GraphQL ❤️</li>
             <li>Large experience in RESTful API architecture / construction</li>
-            <li>Experience with GraphQL</li>
-            <li>Made several API connected front-end rendered applications</li>
-            <li>Managed external APIs structure protected via keys / tokens</li>
+            <li>Made several SPA</li>
+            <li>Managed external APIs structure protected via keys / tokens (JWT ❤️, OAuth, ...)</li>
             <li>Managed internal APIs and secured webhook communications</li>
           </ol>
 
-          <ol>Git version control <span class="resume__detail">6+ years experience</span></ol>
+          <ol>Git version control <span class="resume__detail">8+ years experience</span></ol>
 
-          <ol>Payments solution <span class="resume__detail">6+ years experience</span>
-            <li>Various experiences with Stripe payment (3+ years)</li>
-            <li>Marketplace architecture with Wirecard, Alipay, WechatPay, ChinaUnionPay (2 years)</li>
+          <ol>Payments solution <span class="resume__detail">8+ years experience</span>
+            <li>Various experiences with Stripe payment ❤️ (3+ years)</li>
+            <li>Marketplace architecture with Wirecard, Alipay, WechatPay, ChinaUnionPay (2+ years)</li>
           </ol>
 
           <ol>System Administation <span class="resume__detail">6+ years experience</span>
             <li>Experience with AWS (CloudWatch, RDS, ECS/EC2, Lambda)</li>
+            <li>Experience with Datadog ❤️</li>
             <li>Experience with Apache and NGinx</li>
             <li>Experience with Dokku / Docker</li>
             <li>Experience with SSLs certificates and advanced domains management</li>
             <li>CLI / SSH control, management of Linux / Unix based servers without problem</li>
           </ol>
 
+          <ol>Product design <span class="resume__detail">2+ years experience</span>
+            <li>Experience with Figma ❤️</li>
+            <li>Experience with Sketch</li>
+            <li>Experience with Photoshop</li>
+            <li>I've designed several mobile/web apps from start to finish</li>
+          </ol>
+
           <ol>Toolbox
-            <li>Experience with Redis</li>
             <li>Experience with Sidekiq</li>
+            <li>Experience with Webpack</li>
             <li>Experience with stress tests stacks such as FloodIO and Artillery</li>
-            <li>Sketch, Photoshop, Illustrator : been using  here and there for several years, able to edit vectorial resources and design mockups, used to draw vectorial characters to build flash video games back in the days.</li>
           </ol>
 
           </div>

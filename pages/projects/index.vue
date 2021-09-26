@@ -26,7 +26,7 @@
             </div>
             <!-- Description -->
             <p>
-              Working several years in software engineering, I realized there was no stress test platform made for developers. At worst, you get some 20 years old sites asking to get an estimate on the phone. At best, you have get YAML files and a heavy setup before testing anything. People generally end up coding their own homemade solution. That's a lot of engineering time wasted.
+              Working several years in software engineering, I realized there was no stress test platform made for developers. At worst, you get some 20 years old sites asking to get an estimate on the phone. At best, you deal with YAML files and a heavy setup before testing anything. People generally end up coding their own homemade solution. That's a lot of engineering time wasted.
             </p>
             <p>
               Bloodbath was thought differently. I've invested heavily into an enhanced developer experience by building multiple languages libraries — Python, Ruby &amp; Node at first — and an easy setup. It also scales very well with the technologies I've picked. I decided to keep it agnostic, even if the primary market for me would be stress tests related.
@@ -66,7 +66,7 @@
             </div>
 
             <!-- Bloodbath -->
-            <h2>Bloodbath.io</h2>
+            <h2>Bloodbath (Legacy)</h2>
             <h3>VueJS SPA / Rails API</h3>
             <div class="resume__detail">
               January 2018 - September 2018
