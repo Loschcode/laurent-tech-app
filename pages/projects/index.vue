@@ -34,7 +34,7 @@
             <!-- Bottom -->
             <div class="resume__bottom">
               <div class="external-link">
-                <a href="https://askalfred.to" target="_blank"><span class="link">View project online</span> <span class="icon icon-link"></span></a>
+                <a href="https://bloodbath.io" target="_blank"><span class="link">View project online</span> <span class="icon icon-link"></span></a>
               </div>
             </div>
           </div>
