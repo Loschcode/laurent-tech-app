@@ -9,7 +9,8 @@
             <h1><span class="icon-code"></span> What is it about?</h1>
             <!-- Description -->
             <p>
-              I like to discover new technologies and usually code a lot beside my daily job. Here's the list of my current skills, and the ones I've acquired but don't really use anymore. The years of experience are estimates of their full-time jobs experience equivalent. ❤️ indicates my current favorites.
+              I like to discover new technologies and usually code a lot beside my daily job. Here's the list of my current skills, and the ones I've acquired but don't really use anymore. The years of experience are estimates of their full-time jobs experience equivalent. <br />
+              ❤️ indicates my current favorites.
             </p>
           </div>
 
@@ -26,7 +27,7 @@
             <li>Experience with Rails Engines, Gems creation ❤️</li>
             <li>Experience with RSpec, Capybara, FactoryGirl</li>
             <li>Experience with Capistrano, Dokku</li>
-            <li>Good with HAML / ERB</li>
+            <li>Good with HAML / ERB but prefer to avoid SSR</li>
           </ol>
 
           <ol>NodeJS stack <span class="resume__detail">2+ years experience</span>
