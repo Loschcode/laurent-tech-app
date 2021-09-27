@@ -10,8 +10,8 @@
             <!-- Description -->
             <p>
               I like to discover new technologies and usually code a lot beside my daily job. Here's the list of my current skills, and the ones I've acquired but don't really use anymore. The years of experience are estimates of their full-time jobs experience equivalent. <br />
-              ❤️ indicates my current favorites.
             </p>
+            <p class="resume__block-right">❤️ indicates my current favorites.</p>
           </div>
 
           <div class="resume__experience">
