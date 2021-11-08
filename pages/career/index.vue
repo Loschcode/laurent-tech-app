@@ -5,7 +5,7 @@
         <div class="resume-header">
           <div class="row">
             <div class="gr-8@desktop resume-header__title">
-              <h1><span class="icon-code"></span> Software developer</h1>
+              <h1><span class="icon-code"></span> Principal Engineer</h1>
                 Elixir enthusiast<br />
                 Sr. Ruby on Rails Developer<br />
                 Experienced NodeJS Developer<br />
