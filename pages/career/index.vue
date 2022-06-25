@@ -6,7 +6,7 @@
           <div class="row">
             <div class="gr-8@desktop resume-header__title">
               <h1><span class="icon-code"></span> Principal Engineer</h1>
-                Software architecture designer<br />
+                Software architecture<br />
                 Kafka &amp; gRPC enthousiast<br />
                 Coder in my heart ❤️<br /><br />
 
