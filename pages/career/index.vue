@@ -6,10 +6,9 @@
           <div class="row">
             <div class="gr-8@desktop resume-header__title">
               <h1><span class="icon-code"></span> Principal Engineer</h1>
-                Elixir enthusiast<br />
-                Sr. Ruby on Rails Developer<br />
-                Experienced NodeJS Developer<br />
-                Experienced VueJS Developer<br /><br />
+                Software architecture designer<br />
+                Kafka &amp; gRPC enthousiast<br />
+                Coder in my heart ❤️<br /><br />
 
                 Phone: +33 619 898 980 (France)<br />
                 Email: <span class="black external-link"><a href="mailto:laurent.schaffner.jobs@gmail.com"><span class="link">laurent.schaffner.jobs@gmail.com</span></a></span>
@@ -31,10 +30,10 @@
               I’m a lifelong student first and foremost. I’m always trying to improve myself and learn new things. I’m interested in various fields, mostly coding, business, marketing, psychology, linguistics and anthropology.
             </p>
             <p>
-              I am a seasoned programmer with more than 10 years in SaaS and am well versed in many languages. I try my best to thoroughly understand the technical challenges of each project going in and then choose the most effective platform / language to see it through. Recently most of the projects I’ve worked on have been based in Ruby on Rails, NodeJS and Laravel. I write clean, readable and scalable code.
+              I am a seasoned programmer with more than 15 years in SaaS and am well versed in many languages and types of architectures. I try my best to thoroughly understand the technical challenges of each project going in and then choose the most effective platform / language to see it through. Recently most of the projects I’ve worked on have been based in Golang, Ruby on Rails, NodeJS and Elixir. I write clean, readable and scalable code.
             </p>
             <p>
-              For the majority of my career I have been in a back-end position, but I've also tackled front-end challenges for several years. I’m good at dealing with the server side and know the importance of being able to adapt myself to any given situation / technology. I pride myself in being able to think through complex systems, anticipate problems, and fix them before they happen.
+              For the majority of my career I have been in a back-end position, but I've also tackled front-end challenges for several years. I’m good at dealing with the infrastructure and know the importance of being able to adapt myself to any given situation / technology. I pride myself in being able to think through complex systems, anticipate problems, and fix them before they happen.
             </p>
           </div>
 
