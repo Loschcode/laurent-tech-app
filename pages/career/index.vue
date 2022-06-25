@@ -7,8 +7,8 @@
             <div class="gr-8@desktop resume-header__title">
               <h1><span class="icon-code"></span> Principal Engineer</h1>
                 Software architecture<br />
-                Kafka &amp; gRPC enthousiast<br />
-                Coder in my heart ❤️<br /><br />
+                Kafka &amp; gRPC enthusiast<br />
+                Coder in my ❤️<br /><br />
 
                 Phone: +33 619 898 980 (France)<br />
                 Email: <span class="black external-link"><a href="mailto:laurent.schaffner.jobs@gmail.com"><span class="link">laurent.schaffner.jobs@gmail.com</span></a></span>
