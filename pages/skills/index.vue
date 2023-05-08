@@ -22,11 +22,18 @@
           <!-- Title -->
           <h1><span class="icon-skill-sets"></span> Skill Sets</h1>
 
+          <ol>Architecture <span class="resume__detail">3+ years experience</span>
+            <li>Led the monolithic to microservice shift of a company at scale</li>
+            <li>Introduced and created several application layers for <a href="https://life.livestorm.co/why-we-chose-kafka-at-livestorm-92c350f2a657" target="_blank">company-wide technologies</a> (Kafka, gRPC)</li>
+            <li>Orchestrated tenth of architectural projects and helped implementing them</li>
+            <li>Wrote <a href="https://medium.com/@LoschCode" target="_blank">extensively</a> on architectural strategies, internally and publicly</li>
+          </ol>
+
           <!-- Description -->
-          <ol>Ruby on Rails stack <span class="resume__detail">7+ years experience</span>
-            <li>Experience with Rails Engines, Gems creation ❤️</li>
-            <li>Experience with RSpec, Capybara, FactoryGirl</li>
-            <li>Experience with Capistrano, Dokku</li>
+          <ol>Ruby on Rails stack <span class="resume__detail">8+ years experience</span>
+            <li>Large experience with Rails Engines, Gems creation ❤️</li>
+            <li>Experience with RSpec, Capybara, FactoryBot</li>
+            <li>Experience with Capistrano</li>
             <li>Good with HAML / ERB but prefer to avoid SSR</li>
           </ol>
 
@@ -58,8 +65,7 @@
           <ol>HTML / XML <span class="resume__detail">12+ years experience</span></ol>
 
           <ol>Databases <span class="resume__detail">12+ years experience</span>
-            <li>Experience with PostgreSQL ❤️</li>
-            <li>Experience with MySQL</li>
+            <li>Large experience with PostgreSQL ❤️ and MySQL</li>
             <li>Experience with MongoDB mostly through Mongoose and Mongoid</li>
             <li>Experience with Redis</li>
             <li>Extensively use ActiveRecord and other ORMs</li>
@@ -68,23 +74,23 @@
           <ol>API construction <span class="resume__detail">7+ years experience</span>
             <li>Experience with GraphQL ❤️</li>
             <li>Large experience in RESTful API architecture / construction</li>
-            <li>Made several SPA</li>
+            <li>Made several SPAs</li>
             <li>Managed external APIs structure protected via keys / tokens (JWT ❤️, OAuth, ...)</li>
             <li>Managed internal APIs and secured webhook communications</li>
           </ol>
 
           <ol>Git version control <span class="resume__detail">8+ years experience</span></ol>
 
-          <ol>Payments solution <span class="resume__detail">8+ years experience</span>
+          <ol>Payment Gateways <span class="resume__detail">8+ years experience</span>
             <li>Various experiences with Stripe payment ❤️ (3+ years)</li>
             <li>Marketplace architecture with Wirecard, Alipay, WechatPay, ChinaUnionPay (2+ years)</li>
           </ol>
 
-          <ol>System Administation <span class="resume__detail">6+ years experience</span>
+          <ol>Infrastructure & Monitoring <span class="resume__detail">6+ years experience</span>
             <li>Experience with AWS (CloudWatch, RDS, ECS/EC2, Lambda)</li>
-            <li>Experience with Datadog ❤️</li>
+            <li>Experience with Datadog ❤️ and Sentry</li>
             <li>Experience with Apache and NGinx</li>
-            <li>Experience with Dokku / Docker</li>
+            <li>Experience with Dokku / Docker and Kubernetes</li>
             <li>Experience with SSLs certificates and advanced domains management</li>
             <li>CLI / SSH control, management of Linux / Unix based servers without problem</li>
           </ol>
