@@ -18,7 +18,6 @@
           <div class="resume__experience">
             <!-- Title -->
             <h1><span class="icon-current-projects"></span> Current projects</h1>
-            <!-- AskAlfred -->
             <h2>Bloodbath</h2>
             <h3>React / Elixir</h3>
             <div class="resume__detail">
@@ -34,7 +33,7 @@
             <!-- Bottom -->
             <div class="resume__bottom">
               <div class="external-link">
-                <a href="https://bloodbath.io" target="_blank"><span class="link">View project online</span> <span class="icon icon-link"></span></a>
+                <a href="https://github.com/bloodbath-io" target="_blank"><span class="link">View on Github</span> <span class="icon icon-link"></span></a>
               </div>
             </div>
           </div>
@@ -61,7 +60,7 @@
             <!-- Bottom -->
             <div class="resume__bottom">
               <div class="external-link">
-                <a href="https://askalfred.to" target="_blank"><span class="link">View project online</span> <span class="icon icon-link"></span></a>
+                <a href="https://github.com/Loschcode/askalfred-app" target="_blank"><span class="link">View on Github</span> <span class="icon icon-link"></span></a>
               </div>
             </div>
 
