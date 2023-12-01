@@ -31,6 +31,9 @@
               I wrote an agnostic clock-in system based on QR Codes and geolocation while making sure the core would be robust enough to handle future use cases such as gym subscribers trends, supermarket customer sessions, and live-events success measurements, all that with check-in means flexibility (e.g. facial recognition).
             </p>
             <p>
+              It has a strong analytics/metrics report system to help accountants/HR inside those companies.
+            </p>
+            <p>
               It is fully coded in Golang and React/TypeScript also using MaterialUI. The database layer is CockroachDB.
             </p>
             <!-- Bottom -->
