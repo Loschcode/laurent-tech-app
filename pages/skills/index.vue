@@ -25,12 +25,12 @@
           <ol>Architecture <span class="resume__detail">4+ years experience</span>
             <li>Led the monolithic to microservice shift of a company at scale</li>
             <li>Introduced and created several application layers for <a href="https://life.livestorm.co/why-we-chose-kafka-at-livestorm-92c350f2a657" target="_blank">company-wide technologies</a> (Kafka, gRPC)</li>
-            <li>Orchestrated tenth of architectural projects and helped implementing them (RBAC, AUTH)</li>
+            <li>Orchestrated tenth of architectural projects and helped implementing them (e.g. RBAC, AUTH)</li>
             <li>Wrote <a href="https://medium.com/@LoschCode" target="_blank">extensively</a> on architectural strategies, internally and publicly</li>
           </ol>
 
           <!-- Description -->
-          <ol>Golang stack ❤️ <span class="resume__detail">1+ year experience</span>
+          <ol>Golang ❤️ <span class="resume__detail">1+ year experience</span>
             <li>Experience with Kafka and gRPC with Golang</li>
             <li>Experience with GORM</li>
           </ol>
