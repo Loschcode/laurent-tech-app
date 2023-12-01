@@ -66,6 +66,38 @@
               </div>
             </div>
 
+            <h2>BigSeat</h2>
+            <h3>EmberJS / Elixir</h3>
+            <div class="resume__detail">
+             May 2021 - April 2022
+            </div>
+            <!-- Description -->
+            <p>
+              In the middle of the COVID crisis, opportunities arised. BigSeat was a seat booking system that was targeted to small and mid-sized companies. The point was to have a better space allocation planning and insight in company office to save company money.
+            </p>
+            <!-- Bottom -->
+            <div class="resume__bottom">
+              <div class="external-link">
+                <a href="https://github.com/1870plan" target="_blank"><span class="link">View on Github</span> <span class="icon icon-link"></span></a>
+              </div>
+            </div>
+
+            <h2>1870Plan</h2>
+            <h3>React / Python</h3>
+            <div class="resume__detail">
+             October 2020 - March 2022
+            </div>
+            <!-- Description -->
+            <p>
+              With a couple of friends from the USA, we decided we wanted to make a credit card of a new kind. We worked on a native iOS application coupled with a credit card API so that at each payment, Americans could fund their retirement through automatic investment mechanisms (e.g. SP500). The project was technically working but we could not secure seed funding so we decided to stop.
+            </p>
+            <!-- Bottom -->
+            <div class="resume__bottom">
+              <div class="external-link">
+                <a href="https://github.com/1870plan" target="_blank"><span class="link">View on Github</span> <span class="icon icon-link"></span></a>
+              </div>
+            </div>
+
             <!-- AskAlfred -->
             <h2>AskAlfred</h2>
             <h3>VueJS / GraphQL / Rails API</h3>
