@@ -34,7 +34,7 @@
               It has a strong analytics/metrics report system to help accountants/HR inside those companies.
             </p>
             <p>
-              It is fully coded in Golang and React/TypeScript also using MaterialUI. The database layer is CockroachDB and the communication layer is GraphQL.
+              It is fully coded in Golang and React/TypeScript also using MaterialUI. The database layer is CockroachDB and the main communication layer is GraphQL.
             </p>
             <!-- Bottom -->
             <div class="resume__bottom">
@@ -61,6 +61,9 @@
             </p>
             <p>
               Bloodbath was thought differently. I've invested heavily into an enhanced developer experience by building multiple languages libraries — Python, Ruby &amp; Node at first — and an easy setup. It also scales very well with the technologies I've picked. I decided to keep it agnostic, even if the primary market for me would be stress tests related.
+            </p>
+            <p>
+              The stack is complex as it has libraries in several languages (Python, NodeJS, Ruby) but it's basically a mix of Golang lambda, Elixir for the CRUD and PostgreSQL (RDS) as database layer. I also used Ionic for the UI.
             </p>
             <!-- Bottom -->
             <div class="resume__bottom">
@@ -94,6 +97,9 @@
             <p>
               With a couple of friends from the USA, we decided we wanted to make a credit card of a new kind. We worked on a native iOS application coupled with a credit card API so that at each payment, Americans could fund their retirement through automatic investment mechanisms (e.g. SP500). The project was technically working but we could not secure seed funding so we decided to stop.
             </p>
+            <p>
+              We used Django and GraphQL. And as usual, PostgreSQL as a database layer.
+            </p>
             <!-- Bottom -->
             <div class="resume__bottom">
               <div class="external-link">
@@ -103,7 +109,7 @@
 
             <!-- AskAlfred -->
             <h2>AskAlfred</h2>
-            <h3>VueJS / GraphQL / Rails API</h3>
+            <h3>VueJS / Rails API</h3>
             <div class="resume__detail">
               January 2019 - October 2019
               Since January 2019
@@ -113,7 +119,10 @@
               It's been years cool services pop up all over the place. You have Uber, AirBnB and what not. Surely everyone wants to be in the next craze, but people all look at the same direction, like food delivery or car sharing. There's one domain which hasn't been touched by a robust app though; conciergerie. After trying a few of them for my own needs, I realized how bad all that was orchestrated. That's how Alfred was born. I decided to write up a cool and very accessible app you can use H24 7/7 from any device, to rapidly ask for little tasks without second thought. Ask him something, and he will do it for you. You avoid burning your precious time, and the stress of sending a letter, translating something or call the plumber vanishes. Delegating tasks has never been this easy.
             </p>
             <p>
-              Alfred is by far the most complete app I've ever built. I took months designing the graphics through Sketch, writing up a realistic business model and plan, defining the MVP specs and pushing the marketing ideas upside down with Notion. I had given myself one year to make it work commercially. After a few days of marketing campaign, I got my first customer and realized I didn't want to get into the industry.
+              Alfred is by far the most complete app I had ever built so far. I took months designing the graphics through Sketch, writing up a realistic business model and plan, defining the MVP specs and pushing the marketing ideas upside down with Notion. I had given myself one year to make it work commercially. After a few days of marketing campaign, I got my first customer and realized I didn't want to get into the industry.
+            </p>
+            <p>
+              The communication layer is entirely GraphQL.
             </p>
             <!-- Bottom -->
             <div class="resume__bottom">
@@ -124,13 +133,16 @@
 
             <!-- Bloodbath -->
             <h2>Bloodbath (Legacy)</h2>
-            <h3>VueJS SPA / Rails API</h3>
+            <h3>VueJS / Rails API</h3>
             <div class="resume__detail">
               January 2018 - September 2018
             </div>
             <!-- Description -->
             <p>
               Ever heard of cryptocurrencies ? Well, me too. After investing my money in this emotional rollercoaster since early 2017, I realized no portfolio was ever matching my expectations, so I built one. Also crypto projects were being created all over the Internet, so why not make one too ? I tried to keep everything simple and minimalist. The killer feature is the weather which illustrates the current trend of the daily market or/and your portfolio via a secret algorithm anyone could guess, because it's on Github.
+            </p>
+            <p>
+              This is a full-on SPA working with a Rails API communicating through REST.
             </p>
             <!-- Bottom -->
             <div class="resume__bottom">
@@ -141,7 +153,7 @@
 
             <!-- Geokaliz -->
             <h2>Geokaliz</h2>
-            <h3>Full MeteorJS</h3>
+            <h3>MeteorJS</h3>
             <div class="resume__detail">
               August 2015 - December 2015
             </div>
@@ -164,6 +176,9 @@
             <p>Ever been to a cool party ? Well, me neither, but for the ones who went, an important criteria to a good party is the sound system, and it often ends up with a computer plugged to a high-fi, sometimes a phone / tablet. The thing is, who wants to move around to change the music ? No one. And who wants to buy those expensive connected sound systems ? No one either.</p>
             <p>I decided to create a synchronization app available from any computer or mobile device. In short, you open your browser / app and go to your channel as a speaker, then anyone can go to the same channel and switch musics, change the volume or add the next music to be played. The area you can connect to wasn’t limited like Bluetooth based systems.</p>
             <p>The project had its market ; people were using it at different parties around my city but it was based on YouTube API which changed and became very restricted in term of auto play. I had to give it up, but plan on making a come back someday.</p>
+            <p>
+              It is fully coded in NodeJS.
+            </p>
             <!-- Bottom -->
             <div class="resume__bottom">
               <div class="external-link">
