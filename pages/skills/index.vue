@@ -32,6 +32,7 @@
           <!-- Description -->
           <ol>Golang ❤️ <span class="resume__detail">1+ year experience</span>
             <li>Experience with Kafka and gRPC with Golang</li>
+            <li>Experience with GQLGen</li>
             <li>Experience with GORM</li>
           </ol>
   
