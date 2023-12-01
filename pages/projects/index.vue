@@ -28,10 +28,7 @@
               Living for a while in Mexico, I realized small and mid-sized companies had a hard time monitoring and analyzing worker shifts, especially in physical offices and factories; the existing solutions are usually flaky like fingerprint passes to enter buildings.
             </p>
             <p>
-              I wrote an agnostic clock-in system based on QR Codes and geolocation while making sure the core would be robust enough to handle future use cases such as gym subscribers trends, supermarket customer sessions, and live-events success measurements, all that with check-in means flexibility (e.g. facial recognition).
-            </p>
-            <p>
-              It has a strong analytics/metrics report system to help accountants/HR inside those companies.
+              I wrote an agnostic clock-in system based on QR Codes and geolocation while making sure the core would be robust enough to handle future use cases such as gym subscribers trends, supermarket customer sessions, and live-events success measurements, all that with check-in means flexibility (e.g. facial recognition). It has a strong analytics/metrics report system to help accountants/HR for my main use-case.
             </p>
             <p>
               It is fully coded in Golang and React/TypeScript also using MaterialUI. The database layer is CockroachDB and the main communication layer is GraphQL.
@@ -112,7 +109,6 @@
             <h3>VueJS / Rails API</h3>
             <div class="resume__detail">
               January 2019 - October 2019
-              Since January 2019
             </div>
             <!-- Description -->
             <p>
