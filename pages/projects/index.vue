@@ -75,7 +75,7 @@
             <h2>BigSeat</h2>
             <h3>EmberJS / Elixir</h3>
             <div class="resume__detail">
-             May 2021 - April 2022
+             January 2021 - June 2021
             </div>
             <!-- Description -->
             <p>
