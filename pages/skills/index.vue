@@ -22,13 +22,19 @@
           <!-- Title -->
           <h1><span class="icon-skill-sets"></span> Skill Sets</h1>
 
-          <ol>Architecture <span class="resume__detail">3+ years experience</span>
+          <ol>Architecture <span class="resume__detail">4+ years experience</span>
             <li>Led the monolithic to microservice shift of a company at scale</li>
             <li>Introduced and created several application layers for <a href="https://life.livestorm.co/why-we-chose-kafka-at-livestorm-92c350f2a657" target="_blank">company-wide technologies</a> (Kafka, gRPC)</li>
             <li>Orchestrated tenth of architectural projects and helped implementing them</li>
             <li>Wrote <a href="https://medium.com/@LoschCode" target="_blank">extensively</a> on architectural strategies, internally and publicly</li>
           </ol>
 
+          <!-- Description -->
+          <ol>Golang stack ❤️<span class="resume__detail">1+ year experience</span>
+            <li>Experience with Kafka and gRPC with Golang</li>
+            <li>Experience with GORM</li>
+          </ol>
+  
           <!-- Description -->
           <ol>Ruby on Rails stack <span class="resume__detail">8+ years experience</span>
             <li>Large experience with Rails Engines, Gems creation ❤️</li>
@@ -45,10 +51,9 @@
           </ol>
 
           <ol>JavaScript <span class="resume__detail">12+  years experience</span>
-            <li>Experience in VueJS (and Nuxt)</li>
-            <li>Experience in React ❤️ (and Gatsby)</li>
-            <li>Experience in ES6</li>
-            <li>Bases in TypeScript</li>
+            <li>Experience in VueJS (and NuxtJS/Vite)</li>
+            <li>Experience in React ❤️ (and Gatsby/Vite)</li>
+            <li>In favor of TypeScript for team work</li>
           </ol>
 
           <ol>Elixir <span class="resume__detail">2+  years experience</span>
@@ -65,14 +70,16 @@
           <ol>HTML / XML <span class="resume__detail">12+ years experience</span></ol>
 
           <ol>Databases <span class="resume__detail">12+ years experience</span>
+            <li>Experience with CockroachDB ❤️ as distributed database</li>
             <li>Large experience with PostgreSQL ❤️ and MySQL</li>
             <li>Experience with MongoDB mostly through Mongoose and Mongoid</li>
-            <li>Experience with Redis</li>
+            <li>Large experience with Redis</li>
             <li>Extensively use ActiveRecord and other ORMs</li>
           </ol>
 
           <ol>API construction <span class="resume__detail">7+ years experience</span>
-            <li>Experience with GraphQL ❤️</li>
+            <li>Experience with gRPC ❤️</li>
+            <li>Experience with GraphQL</li>
             <li>Large experience in RESTful API architecture / construction</li>
             <li>Made several SPAs</li>
             <li>Managed external APIs structure protected via keys / tokens (JWT ❤️, OAuth, ...)</li>
@@ -103,7 +110,7 @@
           </ol>
 
           <ol>Toolbox
-            <li>Experience with Sidekiq</li>
+            <li>Experience with Sidekiq and many more job scheduler technologies</li>
             <li>Experience with Webpack</li>
             <li>Experience with stress tests stacks such as FloodIO and Artillery</li>
           </ol>

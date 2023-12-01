@@ -14,6 +14,34 @@
           </div>
 
           <hr />
+        
+          <div class="resume__experience">
+            <!-- Title -->
+            <h1><span class="icon-current-projects"></span> Current projects</h1>
+            <h2>Aquiestoy</h2>
+            <h3>React / Golang</h3>
+            <div class="resume__detail">
+              Since October 2023
+            </div>
+            <!-- Description -->
+            <p>
+              Living for a while in Mexico, I realized small and mid-sized companies had a hard time monitoring and analyzing worker shifts, especially in physical offices and factories; the existing solutions are usually flaky like fingerprint passes to enter buildings.
+            </p>
+            <p>
+              I wrote an agnostic clock-in system based on QR Codes and geolocation while making sure the core would be robust enough to handle future use cases such as gym subscribers trends, supermarket customer sessions, and live-events success measurements, all that with check-in means flexibility (e.g. facial recognition).
+            </p>
+            <p>
+              It is fully coded in Golang and React/TypeScript also using MaterialUI. The database layer is CockroachDB.
+            </p>
+            <!-- Bottom -->
+            <div class="resume__bottom">
+              <div class="external-link">
+                <a href="https://aquiestoy.io" target="_blank"><span class="link">See online</span> <span class="icon icon-link"></span></a>
+              </div>
+            </div>
+          </div>
+  
+          <hr />
 
           <div class="resume__experience">
             <!-- Title -->
@@ -21,7 +49,7 @@
             <h2>Bloodbath</h2>
             <h3>React / Elixir</h3>
             <div class="resume__detail">
-              Since June 2021
+             June 2021 - May 2022
             </div>
             <!-- Description -->
             <p>
@@ -48,6 +76,7 @@
             <h2>AskAlfred</h2>
             <h3>VueJS / GraphQL / Rails API</h3>
             <div class="resume__detail">
+              January 2019 - October 2019
               Since January 2019
             </div>
             <!-- Description -->
