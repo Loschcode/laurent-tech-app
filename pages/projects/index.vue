@@ -34,7 +34,7 @@
               It has a strong analytics/metrics report system to help accountants/HR inside those companies.
             </p>
             <p>
-              It is fully coded in Golang and React/TypeScript also using MaterialUI. The database layer is CockroachDB.
+              It is fully coded in Golang and React/TypeScript also using MaterialUI. The database layer is CockroachDB and the communication layer is GraphQL.
             </p>
             <!-- Bottom -->
             <div class="resume__bottom">
