@@ -81,7 +81,7 @@
             <!-- Bottom -->
             <div class="resume__bottom">
               <div class="external-link">
-                <a href="https://github.com/1870plan" target="_blank"><span class="link">View on Github</span> <span class="icon icon-link"></span></a>
+                <a href="https://github.com/Loschcode/bigseat-legacy" target="_blank"><span class="link">View on Github</span> <span class="icon icon-link"></span></a>
               </div>
             </div>
 
